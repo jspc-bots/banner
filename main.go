@@ -22,5 +22,5 @@ func main() {
 		panic(err)
 	}
 
-	c.bottom.Client.Connect()
+	panic(c.bottom.Client.Connect())
 }

@@ -1,4 +1,4 @@
-module github.com/jspc-bot/irc-bot-template
+module github.com/jspc-bot/banner
 
 go 1.16
 
